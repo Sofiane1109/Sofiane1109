@@ -61,14 +61,7 @@ Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sofiane1109&theme=tokyonight&hide_border=true)
  
 </div>
----
- 
-<div align="center">
-*Feel free to reach out — always open to collaborate on cool projects!*
- 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-en-nali/)
- 
-</div>
+
 ---
  
 <div align="center">
