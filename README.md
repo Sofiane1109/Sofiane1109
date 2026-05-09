@@ -59,9 +59,6 @@ Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a 
 <div align="center">
 ![Sofiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiane1109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane1109&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
- 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofiane1109&theme=tokyo-night&hide_border=true&area=true)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sofiane1109&theme=tokyonight&hide_border=true)
  
