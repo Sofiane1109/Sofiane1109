@@ -57,8 +57,6 @@ Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a 
 ## 📊 GitHub Stats
  
 <div align="center">
-![Sofiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiane1109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
- 
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sofiane1109&theme=tokyonight&hide_border=true)
  
