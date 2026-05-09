@@ -57,11 +57,21 @@ Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a 
 ## 📊 GitHub Stats
  
 <div align="center">
-![Sofiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiane1109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sofiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiane1109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane1109&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane1109&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
+ 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sofiane1109&theme=tokyo-night&hide_border=true&area=true)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sofiane1109&theme=tokyonight&hide_border=true)
+ 
+</div>
+---
+ 
+<div align="center">
+*Feel free to reach out — always open to collaborate on cool projects!*
+ 
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-en-nali/)
  
 </div>
 ---
