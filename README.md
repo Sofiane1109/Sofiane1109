@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-en-nali/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiane1109)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://sofiane1109.github.io/Cerise/)
 
 </div>
 
@@ -50,23 +51,24 @@ Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🍒 Cerise](https://github.com/Sofiane1109/Cerise) | Personal project | TypeScript |
+| [🍒 Cerise](https://sofiane1109.github.io/Cerise/) | Personal portfolio & web project | TypeScript |
 
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sofiane1109&theme=tokyonight&hide_border=true)
- 
+
 </div>
 
 ---
- 
+
 <div align="center">
+
 *Feel free to reach out — always open to collaborate on cool projects!*
- 
+
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-en-nali/)
- 
+
 </div>
