@@ -17,7 +17,7 @@
 Hey, I'm Sofiane — a Computer Science student at **Odisee** (Brussels) with a passion for building clean, modern applications.
 
 - 🎓 Studying **AI & Data Engineering**, **Digital Consulting** and **Web & Mobile Development**
-- 🚀 Currently building **[Cerise](https://github.com/Sofiane1109/Cerise)** — my personal project
+- 🚀 Currently building **[Cerise](https://github.com/Sofiane1109/Cerise)** — my personal projects
 - 🌍 Based in Brussels, Belgium
 - 💡 Always exploring new tech and tools
 
