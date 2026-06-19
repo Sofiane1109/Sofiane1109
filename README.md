@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-en-nali/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiane1109)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://sofiane1109.github.io/Cerise/)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://sofiane1109.github.io/Cerise/)-->
 
 </div>
 
